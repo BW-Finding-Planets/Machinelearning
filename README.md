@@ -4,6 +4,7 @@ Use astropy and the MAST api to get further information about the stars. <br />
 Run a neural network trained on Kepler data on TESS lightcurve data (processed to be in the same format as the Kepler data) <br /><br />
 
 Useful links:<br />
+https://exofop.ipac.caltech.edu/tess/view_toi.php <br />
 https://mast.stsci.edu/api/v0/_services.html <br />
 https://mast.stsci.edu/api/v0/_t_i_cfields.html <br />
 https://docs.lightkurve.org/api/index.html <br />
