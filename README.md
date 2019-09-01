@@ -1,5 +1,5 @@
 Basic workflow: <br />
-Get TCE data from TESS bulk downloads page, use lightkurve api to get the lightcurves corresponding to them, use astropy to process and fold the lightcurves. <br />
+Use lightkurve api to get the lightcurves corresponding to the TESS ID's we want, use astropy to process and fold the lightcurves. <br />
 Use astropy and the MAST api to get further information about the stars. <br />
 Run a neural network on TESS lightcurve false positive/confirmed planet data. <br /><br />
 
